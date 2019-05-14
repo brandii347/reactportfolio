@@ -1,13 +1,14 @@
 let resumeData = {
-    "imagebaseurl":"https://techonoeticsclub.github.io/",
+    "imagebaseurl":"",
     "name": "Brandi Chavez",
-    "role": "FullStack Developer",
-    "linkedinId":"brandii347",
-    "roleDescription": "I love learning new technologies. I do both frontend and backend development. I'm a mom of two and I love to bake in my free time. Also I'm a huge Star Wars nerd!",
+    "role": "FullStack Developer ",
+    "email":" brandi.nicole22@gmail.com",
+    "phone": " 714 851-6876",
+    "roleDescription": " and a soon to be mom of two. I love learning new technologies and figuring out how to fix bugs on my own.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"www.linkedin.com/in/brandii347",
+          "url":"https://www.linkedin.com/in/brandii347/",
           "className":"fa fa-linkedin"
         },
         {
@@ -17,9 +18,8 @@ let resumeData = {
         }
         
       ],
-    "aboutme":"I finished my coding Bootcamp back in April 2018, I have been learning more on my own and working for Global Girls Give as a Web developer since November 2018.",
+    "aboutme":"I finished my Coding Bootcamp back in April 2018, I have been learning more on my own and working for Global Girls Give as a Web developer since November 2018. Also I'm a huge Star Wars Nerd!",
     "address":"Tustin, CA",
-    "email":"brandi.nicole22@gmail.com",
     "website":"",
     "education":[
       {
