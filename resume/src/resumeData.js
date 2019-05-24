@@ -18,7 +18,7 @@ let resumeData = {
         }
         
       ],
-    "aboutme":"I finished my Coding Bootcamp back in April 2018, I have been learning more on my own and working for Global Girls Give as a Web developer since November 2018. Also I'm a huge Star Wars Nerd!",
+    "aboutme":"I have my Bachelors in Computer Science and I finished my Coding Bootcamp back in April 2018, I have been learning more on my own and working for Global Girls Give as a Web developer since November 2018. Also I'm a huge Star Wars Nerd!",
     "address":"Tustin, CA",
     "website":"",
     "education":[
@@ -60,7 +60,7 @@ let resumeData = {
         "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"HTML, CSS, Javascript, React, MySQL, MongoDB, NodeJS, WordPress, ExpressJS, HandlebarsJS, PHP, Python, and Debugging",
     "skills":[
       {
         "skillname":"HTML5"
@@ -93,14 +93,14 @@ let resumeData = {
         "imgurl":"images/portfolio/crystalgame.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",
+        "name":"Scraping",
+        "description":"Scraping ",
         "imgurl":"images/portfolio/project2.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Weather App",
+        "description":"Weather App made with React, using the Open Weather Map API",
+        "imgurl":"images/portfolio/weather.png"
       }
     ],
   
